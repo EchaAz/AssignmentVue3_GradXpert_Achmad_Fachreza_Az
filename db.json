@@ -1,0 +1,87 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Black Truffle Risotto",
+      "price": "$250",
+      "detail": "Indulge in the luxurious flavors of black truffles combined with creamy risotto, a culinary masterpiece that will tantalize your taste buds.",
+      "image": "/src/assets/menu-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Kobe Beef Steak",
+      "price": "$500",
+      "detail": "Experience the ultimate indulgence with our Kobe beef steak, renowned for its exceptional marbling and melt-in-your-mouth tenderness.",
+      "image": "/src/assets/menu-2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Foie Gras Sushi",
+      "price": "$180",
+      "detail": "Savor the exquisite combination of delicate foie gras and expertly prepared sushi rice, a fusion of luxury and tradition that will leave you craving more.",
+      "image": "/src/assets/menu-3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Lobster Thermidor",
+      "price": "$300",
+      "detail": "Delight your senses with our decadent lobster thermidor, featuring succulent lobster meat enveloped in a rich, creamy sauce and gratinated to perfection.",
+      "image": "/src/assets/menu-4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Wagyu Beef Burger",
+      "price": "$200",
+      "detail": "Indulge in the unparalleled richness of Wagyu beef with our gourmet burger, crafted with premium ingredients and served with a side of truffle fries.",
+      "image": "/src/assets/menu-5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Alaskan King Crab Legs",
+      "price": "$350",
+      "detail": "Treat yourself to the delicate sweetness of Alaskan king crab legs, served with drawn butter and lemon for a taste of seafood perfection.",
+      "image": "/src/assets/menu-6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Caviar Tasting Platter",
+      "price": "$600",
+      "detail": "Elevate your dining experience with our caviar tasting platter, featuring a selection of the finest caviars from around the world accompanied by traditional garnishes.",
+      "image": "/src/assets/menu-7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Golden Opulence Sundae",
+      "price": "$1000",
+      "detail": "Indulge in the ultimate dessert experience with our Golden Opulence Sundae, featuring the rarest ingredients and edible gold leaf for a truly decadent treat.",
+      "image": "/src/assets/menu-8.jpg"
+      }
+  ],
+  "bookings": [
+    {
+      "name": "Lala",
+      "email": "apravida@hacktiv8.com",
+      "people": "3",
+      "booking_date": "2024-01-06T20:26",
+      "special_request": "no",
+      "created_date": "2023-12-25T13:26:23.363Z",
+      "id": "1"
+    },
+    {
+      "id": "0ab9",
+      "name": "Halo",
+      "email": "Halo@gmail.com",
+      "date": "2024-12-02",
+      "people": 3,
+      "specialRequest": "Make it snappy"
+    },
+    {
+      "id": "8c94",
+      "name": "Hehe",
+      "email": "hehe@yahoo.com",
+      "date": "2024-12-12",
+      "people": 43,
+      "specialRequest": "Make it as child friendly as you can"
+    }
+  ]
+}
